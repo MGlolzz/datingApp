@@ -1,0 +1,14 @@
+export { default as Home } from "./Home";
+export { default as Matches } from "./Matches";
+export { default as Messages } from "./Messages";
+export { default as Profile } from "./Profile";
+export { default as Account } from "./Account";
+export { default as Landing } from "./Landing";
+export { default as Login } from "./Login";
+export { default as SignUp } from "./SignUp";
+export { default as CreateProfile } from "./CreateProfile";
+export { default as CreateProfile2 } from "./CreateProfile2";
+export { default as CreateProfile3 } from "./CreateProfile3";
+export { default as CreateProfile4 } from "./CreateProfile4";
+export { default as ChatPop } from "./ChatPop";
+export { default as FilterPop } from "./FilterPop";
