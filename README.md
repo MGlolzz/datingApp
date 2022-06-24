@@ -13,7 +13,7 @@ This project works fine on iOS and Android.
 Clone this repository :
 
 ```
-git clone https://github.com/stevenpersia/tinder-expo.git
+git clone https://github.com/MGlolzz/datingApp.git
 cd tinder-expo
 ```
 
