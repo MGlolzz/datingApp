@@ -1,16 +1,4 @@
-<h1 align="center">
-<img
-		width="250"
-		alt="Tinder Clone - Expo"
-		src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/tinder-clone-logo.gif">
-</h1>
-<h3 align="center">
-	Tinder Clone - Expo
-</h3>
 
-<p align="center">
-	<img src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/tinderclone-preview.gif" width="300">
-</p>
 
 
 ## Overview
